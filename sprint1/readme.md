@@ -28,6 +28,8 @@
     - transpose of matrix
 
 * Numpy basics
+    -   numpy numti dimentional arrays
+    -   numpy index notations
     -   arrays and vector operations described above (code with numpy)
 
 ## Resources
