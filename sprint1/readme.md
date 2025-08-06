@@ -19,10 +19,10 @@
     - median
     - variance
     - standard deviation
-    - standard vector operations (add and subtract)
+    - basic vector operations (add and subtract)
     - scalar multiplication
     - dot product
-    - standard matrix operations (add subtract)
+    - basic matrix operations (add and subtract)
     - square matrix
     - identity matrix
     - diagonal matrix
