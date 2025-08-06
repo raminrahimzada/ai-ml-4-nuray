@@ -22,6 +22,7 @@
     - standard vector operations (add and subtract)
     - scalar multiplication
     - dot product
+    - standard matrix operations (add subtract)
     - square matrix
     - identity matrix
     - diagonal matrix
@@ -47,5 +48,6 @@
     - mean
     - median
     - variance
+0. scalar multiplication of 2 vectors and dot multiplication    
 0. Do it with and without numpy library      
 0. Share the notebook for these tasks with me for review
