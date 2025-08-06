@@ -48,3 +48,4 @@
     - median
     - variance
 0. Do it with and without numpy library      
+0. Share the notebook for these tasks with me for review
