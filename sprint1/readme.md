@@ -50,4 +50,4 @@
     - variance
 0. Scalar and dot multiplication of 2 vectors    
 0. Do it with and without numpy library      
-0. Share the notebook for these tasks with me for review
+0. Share the kaggle notebook for these tasks with me for review
